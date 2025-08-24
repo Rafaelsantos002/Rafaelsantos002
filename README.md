@@ -1,4 +1,7 @@
 ## Hi there 👋
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+💻 Iniciante em programação e desenvolvimento
+📚 Sempre buscando aprender e vencer novos desafios
 
 <!--
 **Rafaelsantos002/Rafaelsantos002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
