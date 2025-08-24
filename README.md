@@ -1,6 +1,8 @@
 ## Hi there 👋
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+
 💻 Iniciante em programação e desenvolvimento
+
 📚 Sempre buscando aprender e vencer novos desafios
 
 🚀 O que você vai encontrar aqui
