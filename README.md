@@ -5,10 +5,13 @@
 
 📚 Sempre buscando aprender e vencer novos desafios
 
+
 🚀 O que você vai encontrar aqui
 
 Projetos e exercícios do curso de ADS
+
 Estudos práticos em programação (Java, Python, C, etc.)
+
 Anotações e pequenos projetos de aprendizado
 <!--
 **Rafaelsantos002/Rafaelsantos002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
